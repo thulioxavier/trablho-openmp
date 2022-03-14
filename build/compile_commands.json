@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/thulio/Documentos/trablho/build",
+  "command": "/bin/x86_64-linux-gnu-g++-11  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/lerImagem.dir/lerImagem.cpp.o -c /home/thulio/Documentos/trablho/lerImagem.cpp",
+  "file": "/home/thulio/Documentos/trablho/lerImagem.cpp"
+}
+]
