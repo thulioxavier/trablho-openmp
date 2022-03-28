@@ -1,0 +1,3 @@
+/home/thulio/Documentos/trablho/seq/CMakeFiles/rebuild_cache.dir
+/home/thulio/Documentos/trablho/seq/CMakeFiles/edit_cache.dir
+/home/thulio/Documentos/trablho/seq/CMakeFiles/lerImagem.dir

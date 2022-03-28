@@ -1,0 +1,3 @@
+/home/thulio/Documentos/trablho/openmp_1/CMakeFiles/rebuild_cache.dir
+/home/thulio/Documentos/trablho/openmp_1/CMakeFiles/edit_cache.dir
+/home/thulio/Documentos/trablho/openmp_1/CMakeFiles/lerImagem.dir
